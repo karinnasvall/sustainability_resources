@@ -16,6 +16,12 @@ References describing the evironmental impact of scientific research
 
 Calculating the carbon footprint of computational analyses [Green Algorithms calculator](https://calculator.green-algorithms.org)
 
+https://github.com/Cambridge-Sustainable-Computing-Lab/GreenAlgorithms4HPC
+
+[gqueue](https://github.com/Nanoseb/gqueue)	Command-line tool computing HPC footprint on SLURM clusters, following the Green Algorithms method
+
+[CodeCarbon](https://github.com/mlco2/codecarbon)	Python package estimating GPU, CPU and RAM power use, then applying the regional carbon intensity
+
 
 ### How can I reduce my impact? Guidelines and recommendations for sustainability in science
 
