@@ -21,4 +21,6 @@ Calculating the carbon footprint of computational analyses [Green Algorithms cal
 
 Ten simple rules to make your computing more environmentally sustainable [Lannelongue et al. 2021](https://doi.org/10.1371/journal.pcbi.1009324)
 
+[Green DiSC](https://www.software.ac.uk/blog/announcing-green-disc-new-digital-sustainability-certification): a certification scheme giving research groups and institutions a roadmap to tackle the environmental impact of their computing, developed with the Software Sustainability Institute. It is three-tiered (bronze, silver, gold) and free to join.
+
 Suggestions how to reduce your impact during travel and conferences,  [green pledge](https://www.iscb.org/about-iscb/green-iscb/green-pledge)
