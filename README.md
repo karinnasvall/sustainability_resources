@@ -9,7 +9,7 @@ References describing the evironmental impact of scientific research
 
 ### Measuring and monitoring the environmental impact of my activities, how large are they and where can I reduce them?
 
-Calculating the carbon footprint of computational analyses Green Algorithms calculator[https://calculator.green-algorithms.org]
+Calculating the carbon footprint of computational analyses [Green Algorithms calculator](https://calculator.green-algorithms.org)
 
 ### How can I reduce them? Guidelines and recommendations for sustainability in science
 
