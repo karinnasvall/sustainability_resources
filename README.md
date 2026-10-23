@@ -1,4 +1,4 @@
-# sustainability_resources
+# Sustainability resources
 Links and useful documents on how to make bioinformatics more sustainable.
 
 What can I do to reduce the impact of my research activities?
