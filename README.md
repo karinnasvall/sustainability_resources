@@ -11,6 +11,7 @@ References describing the evironmental impact of scientific research
 
 Calculating the carbon footprint of computational analyses [Green Algorithms calculator](https://calculator.green-algorithms.org)
 
-### How can I reduce them? Guidelines and recommendations for sustainability in science
+### How can I reduce my impact? Guidelines and recommendations for sustainability in science
 
 Ten simple rules to make your computing more environmentally sustainable [Lannelongue et al. 2021](https://doi.org/10.1371/journal.pcbi.1009324)
+Suggestions how to reduce your impact during travel and conferences,  [green pledge](https://www.iscb.org/about-iscb/green-iscb/green-pledge)
