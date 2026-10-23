@@ -7,9 +7,15 @@ What can I do to reduce the impact of my research activities?
 
 References describing the evironmental impact of scientific research
 
+[Grealey et al. 2022, Mol Biol Evol](https://doi.org/10.1093/molbev/msac034) quantify the carbon footprint of bioinformatic tools and commonly run analyses, using the Green Algorithms calculator. It covers GWAS, RNA-seq, genome assembly, metagenomics, phylogenetics and molecular simulations. 
+
+[Lannelongue et al. 2023, Nat Comput Sci](https://doi.org/10.1038/s43588-023-00461-y): the GREENER principles
+
+
 ### Measuring and monitoring the environmental impact of my activities, how large are they and where can I reduce them?
 
 Calculating the carbon footprint of computational analyses [Green Algorithms calculator](https://calculator.green-algorithms.org)
+
 
 ### How can I reduce my impact? Guidelines and recommendations for sustainability in science
 
